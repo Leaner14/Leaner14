@@ -1,9 +1,10 @@
-## Hi there 👋
-
 
 <div align="center">
-  <img height="200" src="https://image2url.com/r2/default/images/1774090808222-921075da-c0d0-47d3-9dc6-60a48e0a8fa9.jpg"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+
+###
 
 ###
 
@@ -11,7 +12,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Maman </p>
 
 ###
 
@@ -19,11 +20,18 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎓 I'm an Engineering Student <br>
+💻 Passionate about building modern web applications <br>
+🤖 Interested in Artificial Intelligence<br>
+☁️ Currently exploring Cloud Computing<br>
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+
+
+
+<h2 align="left">📫 Connect With Me</h2>
 
 ###
 
@@ -50,6 +58,7 @@
 ###
 
 
+
 ###
 
 <div align="left">
@@ -69,14 +78,21 @@
 </a>
 
   
-
- 
 </div>
 
 ###
-
+<h2 align="left">📌 What I'm Doing</h2>
+<p align="left">
+🌱 Learning new technologies every day<br>
+🔧 Working on personal and academic projects<br>
+🚀 Improving my development skills<br>
+</p>
 
 ###
+###
+<h2 align="left">⚡ Fun Fact</h2>
+<p>I love exploring new tech and turning ideas into real projects 🚀</p>
+
 
 
 
